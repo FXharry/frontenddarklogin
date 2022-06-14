@@ -3,4 +3,4 @@
 
 ![Project Pic](https://imgur.com/a/7o77PZA)
 
-To view the project live [Click Here.](https://fxharry.github.io/frontenddarklogin/).
+To view the project live [Click Here.](https://fxharry.github.io/frontenddarklogin/)
