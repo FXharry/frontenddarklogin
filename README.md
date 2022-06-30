@@ -6,4 +6,4 @@
 
 To view the project live [Click Here.](https://fxharry.github.io/frontenddarklogin/)
 
-
+<h1 align="left">🚀<b>Technologies<b/></h1>
