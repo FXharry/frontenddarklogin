@@ -11,3 +11,4 @@ To view the project live [Click Here.](https://fxharry.github.io/frontenddarklog
 - [HTML.](https://www.w3schools.com/html/) 
 - [CSS.](https://www.w3schools.com/css/default.asp) 
 
+### Always more learning by Lucas Queiroz 👋 [Get in touch!](https://www.linkedin.com/in/lucas-c-queiroz-39a272205/) 
