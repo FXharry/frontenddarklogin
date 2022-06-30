@@ -6,6 +6,6 @@
 
 To view the project live [Click Here.](https://fxharry.github.io/frontenddarklogin/)
 
-<h1 align="left">🚀<b>Technologies<b/></h1>
+<h1 align="left">🚀<b> Technologies <b/></h1>
 
-[HTML](https://www.w3schools.com/html/)
+<li>[HTML](https://www.w3schools.com/html/)<li/>
