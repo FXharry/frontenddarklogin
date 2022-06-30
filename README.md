@@ -8,4 +8,5 @@ To view the project live [Click Here.](https://fxharry.github.io/frontenddarklog
 
 <h1 align="left">🚀<b> Technologies <b/></h1>
 
-<li><li/> [HTML](https://www.w3schools.com/html/) 
+<li> [HTML.](https://www.w3schools.com/html/) 
+<li/> 
